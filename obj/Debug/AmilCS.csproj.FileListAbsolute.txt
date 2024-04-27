@@ -1,0 +1,7 @@
+C:\Users\davle\source\repos\AmilCS\AmilCS\bin\Debug\AmilCS.exe.config
+C:\Users\davle\source\repos\AmilCS\AmilCS\bin\Debug\AmilCS.exe
+C:\Users\davle\source\repos\AmilCS\AmilCS\bin\Debug\AmilCS.pdb
+C:\Users\davle\source\repos\AmilCS\AmilCS\obj\Debug\AmilCS.csproj.AssemblyReference.cache
+C:\Users\davle\source\repos\AmilCS\AmilCS\obj\Debug\AmilCS.csproj.CoreCompileInputs.cache
+C:\Users\davle\source\repos\AmilCS\AmilCS\obj\Debug\AmilCS.exe
+C:\Users\davle\source\repos\AmilCS\AmilCS\obj\Debug\AmilCS.pdb
